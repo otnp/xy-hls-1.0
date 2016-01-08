@@ -56,6 +56,7 @@ https://github.com/nex3z/android-examples
 
 Retrofit使用方法举例
 http://blog.nex3z.com/2015/12/28/retrofit%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95%E7%AE%80%E4%BB%8B/
+
 http://square.github.io/retrofit/
 
 给 Android 开发者的 RxJava 详解
