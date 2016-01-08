@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+       android:shape="rectangle">
+    <!-- Gradient BgColor for listrow Selected -->
+    <!--<gradient
+        android:startColor="#18d7e5"
+        android:centerColor="#16cedb"
+        android:endColor="#09adb9"
+        android:angle="270" />-->
+
+    <!-- 实心 -->
+    <solid android:color="#666699"/>
+    <!-- 渐变 -->
+    <!--<gradient
+        android:startColor="#ff8c00"
+        android:endColor="#FFFFFF"
+        android:angle="270" />-->
+    <!-- 描边 -->
+    <stroke
+        android:width="0dp"
+        android:color="#ffffff" />
+    <!-- 圆角 -->
+    <!--<corners
+        android:radius="1dp" />-->
+
+</shape>

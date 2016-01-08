@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">祥云课堂</string>
+
+    <string name="btn_index_go_to_list">查看同步课堂视频</string>
+
+
+    <string name="txt_video_show_title">石室祥云同步课堂标题</string>
+    <string name="txt_video_show_info">石室祥云同步课堂课程内容介绍</string>
+</resources>
